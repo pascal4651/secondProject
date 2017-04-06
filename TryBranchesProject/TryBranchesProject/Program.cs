@@ -12,7 +12,8 @@ namespace TryBranchesProject
         {
             int x = 1;
             int y = 2;
-            Console.WriteLine("Result=" + x + y);
+            int z = 3;
+            Console.WriteLine("Result=" + x + y + z);
             Console.ReadKey();
         }
     }
