@@ -4,3 +4,7 @@ c:\users\alex\documents\visual studio 2015\Projects\TryBranchesProject\TryBranch
 c:\users\alex\documents\visual studio 2015\Projects\TryBranchesProject\TryBranchesProject\obj\Debug\TryBranchesProject.csprojResolveAssemblyReference.cache
 c:\users\alex\documents\visual studio 2015\Projects\TryBranchesProject\TryBranchesProject\obj\Debug\TryBranchesProject.exe
 c:\users\alex\documents\visual studio 2015\Projects\TryBranchesProject\TryBranchesProject\obj\Debug\TryBranchesProject.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\TryBranches\secondProject\TryBranchesProject\TryBranchesProject\bin\Debug\TryBranchesProject.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\TryBranches\secondProject\TryBranchesProject\TryBranchesProject\obj\Debug\TryBranchesProject.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\TryBranches\secondProject\TryBranchesProject\TryBranchesProject\obj\Debug\TryBranchesProject.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\TryBranches\secondProject\TryBranchesProject\TryBranchesProject\obj\Debug\TryBranchesProject.csprojResolveAssemblyReference.cache
